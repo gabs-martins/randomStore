@@ -1,0 +1,11 @@
+@import url(reset.css);
+@import url(header.css);
+@import url(card.css);
+@import url(cart.css);
+
+body{
+  font-family: 'Poppins', 'sans-serif';
+  overflow-x: hidden;
+}
+
+ 
